@@ -1,5 +1,9 @@
 # The Causal Effect of the Tokyo 2020 Olympic and Paralympic Games on the Number of COVID-19 Cases under COVID-19 Pandemic: An Ecological Study Using the Synthetic Control Method
 This work is the analytical source code and raw data for a study that examined the impact ofTokyo 2020 on the number of COVID-19 new cases. The raw data contains only public data in Japan..
+
+Please also refer to the Workflow.md
+https://github.com/sankyoh/Tokyo2020_COVID19/blob/main/Workflow.md.
+
 ## master.do file
 By executing this Sata do file, it calls the do file to read and analyze the raw data into Stata.
 ### Read and organizing Excel data.
